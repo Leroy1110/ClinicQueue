@@ -66,4 +66,4 @@ A minimal console tool that lets receptionists add patients, prioritise urgent c
 
 ## 🙌 Author
 
-Developed by **Leroy Fainberg** to practise C# fundamentals and data‑structure implementation.
+Developed by **Leroy Fainberg** to practice C# fundamentals and data‑structure implementation.
